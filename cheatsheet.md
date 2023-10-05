@@ -13,3 +13,4 @@
 12. `tail`: Affiche les dernières lignes d'un fichier
 13. `grep`: Recherche des motifs dans des fichiers en utilisant des expressions régulières
 14. `find`: Recherche des fichiers et des répertoires dans une hiérarchie
+14. `nano`: Permet d'éditer un fichier text
