@@ -1,4 +1,4 @@
-# Linux-cheatsheet
+# Commandes de base
 
 1. `ls`: Affiche la liste des fichiers et répertoires dans le répertoire courant
 2. `pwd`: Affiche le chemin absolu du répertoire courant
